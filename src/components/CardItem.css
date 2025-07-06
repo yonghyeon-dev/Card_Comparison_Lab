@@ -28,6 +28,7 @@
   overflow: hidden;
   display: block;
   max-width: 120px;
+  color: #fff;
 }
 
 .card-rating {
